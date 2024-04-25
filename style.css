@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Almendra+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almendra+SC&family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url('star-brown.jpeg');
+	background-size: cover;
+	background-position: center;
+}
+
+header{
+	padding: 20px;
+}
+
+h1{
+	text-align: center;
+	font-family: "Almendra SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+}
+
+h2{
+	text-align: center;
+	font-family: "Almendra SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+p {
+	font-family: "Noticia Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 27px;
+	padding-top: 5px;
+	text-align: center;
+}
+
+.verse-1{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#hat{
+	max-height: 100%;
+	margin-top: 20px;
+	width: 250px;
+	margin-left: 500px;
+}
+
+#trolley{
+	max-height: 100%;
+	margin-top: 10px;
+	width: 250px;
+	margin-left: 800px;
+}
+
+.verse-2{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#coat{
+	max-height: 100%;
+	margin-top: 10px;
+	width: 250px;
+	margin-left: 500px;
+}
+
+.verse-2img2 img{
+	max-height: 100%;
+	margin-top: 20px;
+	width: 220px;
+	margin-left: 750px;
+}
+
+.verse-3{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#shoes{
+	max-height: 100%;
+	margin-top: 20px;
+	width: 250px;
+	margin-left: 500px;
+}
+
+#bloody{
+	max-height: 100%;
+	margin-top: 20px;
+	width: 170px;
+	margin-left: 750px;
+}
+
+.verse-4{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	margin-bottom: 30px;
+
+}
+
